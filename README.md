@@ -1,5 +1,7 @@
 # Alternative Grading
 
+<img src="grading_systems.png">
+
 | Focus | Systems |
 | ----- | ------- |
 | Performance | - Traditional Grading </br>- Grading on a Curve |
